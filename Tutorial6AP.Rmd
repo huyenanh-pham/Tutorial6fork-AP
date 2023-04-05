@@ -35,7 +35,7 @@ grid.arrange(p1, p2)
 ```
 
 ### New figure
-```{r newimage, eval = TRUE, fig.width = 4, fig.height = 3}
+```{r newimage, eval = TRUE, fig.width = 4, fig.height = 2}
 
 knitr::include_graphics("Images/newimage.png")
 
